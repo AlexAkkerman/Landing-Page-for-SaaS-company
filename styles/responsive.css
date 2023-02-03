@@ -106,4 +106,8 @@
   html {
     font-size: 3px;
   }
+
+  .profile_link {
+    padding-top: 1rem;
+  }
 }

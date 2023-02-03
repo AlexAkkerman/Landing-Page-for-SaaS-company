@@ -5,7 +5,7 @@
 
 #header {
   width: 100vw;
-  height: 96px;
+  height: max-content;
   position: fixed;
   top: 0;
   z-index: 100;
@@ -47,12 +47,16 @@
   color: #131316;
 }
 
+.header-profile img {
+  width: 4rem;
+}
+
 .header-profile {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding-right: 56px;
+  padding-right: 5.6rem;
   gap: 5px;
 }
 
