@@ -101,3 +101,9 @@
     font-size: 4px;
   }
 }
+
+@media only screen and (max-width: 450px) {
+  html {
+    font-size: 3px;
+  }
+}
