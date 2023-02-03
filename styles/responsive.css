@@ -1,0 +1,97 @@
+@media only screen and (max-width: 1150px) {
+  html {
+    font-size: 8.5px;
+  }
+  /* .cube1 {
+     width: 16.4rem;
+     height: 16.4rem;
+   } */
+  /* .cube2 {
+     width: 32rem;
+     height: 32rem;
+   } */
+
+  /* .mobile_pic {
+     width: 42rem;
+     height: 55rem;
+   } */
+
+  .btn_book {
+    padding: 1rem 1rem;
+  }
+
+  a.signin_btn {
+    padding: 0.8rem 1.8rem;
+  }
+
+  ul.header_nav {
+    padding-left: 0rem;
+  }
+
+  h1.header-logo {
+    padding-left: 4rem;
+  }
+}
+
+@media only screen and (max-width: 905px) {
+  html {
+    font-size: 7px;
+  }
+  /* .cube1 {
+     width: 12.4rem;
+     height: 12.4rem;
+   }
+   .cube2 {
+     width: 25rem;
+     height: 25rem;
+   } */
+
+  /* .mobile_pic {
+     width: 38rem;
+     height: 51rem;
+   } */
+}
+
+@media only screen and (max-width: 800px) {
+  html {
+    font-size: 5.5px;
+  }
+  /* .cube1 {
+     width: 8.4rem;
+     height: 8.4rem;
+   }
+   .cube2 {
+     width: 22rem;
+     height: 22rem;
+   } */
+
+  /* .mobile_pic {
+     width: 32rem;
+     height: 45rem;
+   } */
+}
+
+@media only screen and (max-width: 700px) {
+  html {
+    font-size: 5px;
+  }
+}
+
+@media only screen and (max-width: 665px) {
+  html {
+    font-size: 5px;
+  }
+  /* .cube1 {
+     width: 6.4rem;
+     height: 6.4rem;
+   }
+   .cube2 {
+     width: 20rem;
+     height: 20rem;
+   } */
+
+  /* .mobile_pic {
+     width: 27rem;
+     height: 40rem;
+   } */
+}

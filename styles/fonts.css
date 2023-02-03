@@ -1,0 +1,24 @@
+@font-face {
+   font-family: Avenir medium;
+   src: url(../Fonts/avenir-lt-65-medium.ttf);
+}
+
+@font-face {
+   font-family: Avenir roman;
+   src: url(../Fonts/avenir-lt-55-roman.ttf);
+}
+
+@font-face {
+   font-family: Avenir heavy;
+   src: url(../Fonts/Avenir\ LT\ Std\ 85\ Heavy.otf);
+}
+
+@font-face {
+   font-family: Avenir black;
+   src: url(../Fonts/Avenir\ LT\ Std\ 95\ Black.otf);
+}
+
+@font-face {
+   font-family: Proximanova Bold;
+   src: url(../Fonts/proximanova-bold.otf);
+}
