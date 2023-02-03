@@ -135,7 +135,7 @@
   display: flex;
   justify-content: space-between;
   height: 65rem;
-  background: url(/assets/hero-bakcground.png) no-repeat;
+  background: url(assets/hero-bakcground.png) no-repeat;
   background-size: 100%;
   background-position-x: center;
   width: 100vw;
